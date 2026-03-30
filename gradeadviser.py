@@ -130,7 +130,7 @@ def display_report(StudentName, marks_list, avg_marks, finalgrade, feedback):
     print(f"\n Advisor Says  : {feedback}")
     print("=" * 55)
     
-csvfile = "details.csv"
+csvfile = "history.csv"
 
 def save_to_csv(StudentName, marks_list, avg_marks, finalgrade):
     csvfile_available = os.path.isfile(csvfile)
