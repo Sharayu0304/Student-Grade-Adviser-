@@ -23,12 +23,13 @@ Instituition : VIT Bhopal University
 It is python based command line project that helps users(students/others) to assess their study perdormance. It collects  subject-wise marks from the user  and caluclates its mean score, a grade and calculates the final grade. The apllication also provides with a feedback based on the final grade and also provides with topic-wise improvement suggestions to improve their weak areas. In addition to these, it also keeps a csv file which keeps a record of all the past data, allowing users to track their progress over time. This project shows the practical use of python and AI based concepts.
 
 ## Project Structure
+```
 Student-Grade-Adviser/
-
-|----gradeadviser.py -----> main python program, (run this on terminal)
-|----history.csv------>  it is automatically created after running the python file
-|-----README.md-----> Project explanation
-
+|
+|----gradeadviser.py     # main python program, (run this on terminal)
+|----history.csv  it is  # automatically created after running the python file
+|-----README.md          # Project explanation
+```
 
 ## Concepts applied (AI BASED)
 + This project uses intelligent agent, which perceives marks of the user as input , uses reasoning based rules and actos on the environment by proving the user with a PERFORMANCE REPORT.
@@ -76,7 +77,7 @@ Stops and quits the programs
 + Run the program.
 
 ## Terminal (Screenshot)
-[terminal1](<terminal 1 upper.png>)
+![terminal1](<terminal 1 upper.png>)
 ![terminal2](<terminal 2 .png>)
 ![terminal3](<terminal 3 .png>)
 
