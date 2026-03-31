@@ -63,15 +63,17 @@ Shows all previous records directly into the terminal imported from histroy.csv
 Stops and quits the program.
 
 
-
-## How to set up
+## How to set up (Installation)
 1. Make sure you have Python 3 installed in your PC.
 2. Clone the repository : git clone < repository link>
 3. write : cd student-grade-advisor.
 4. Python modules like csv, os and datetime are already imported .so no external libraries are required.
 
 
-## How to use it/ How to run 
+## Configuration
+This project does not need any configuration.
+
+## How to use it/ How to run (Execution)
 + Clone the repository : git clone < repository link>
 + write : cd student-grade-advisor
 + Open your terminal and go to the gradeadviser.py python file. 
